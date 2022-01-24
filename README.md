@@ -14,6 +14,7 @@
 
 Using Python, we followed these steps:
 - Added our dependencies and initialized a total vote counter
+
 ![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/1.%20added%20dependencies.png)
 
 - Initialized election data variable to pull data from the .csv file and created a for loop to iterate through each row
