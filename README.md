@@ -78,7 +78,7 @@ Using Python, we followed these steps:
 
 ![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/winning%20cand%20code.png)
 
-## Election-Audit Summary
+## 3. Election-Audit Summary
 As seen with the clear analysis created for this election, through the use of Python, the versatility of this program allows for the same steps to be used in analysis for other elections! With mild modifications, this level of analysis can be highly beneficial for any election commission. 
 
 For example:
