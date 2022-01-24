@@ -7,5 +7,5 @@
   
   ![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/Election%20data%20full.png)
   
-  ###### - How many votes were cast in this congressional election?
+- How many votes were cast in this congressional election?
   - A total of 369,711 votes were cast in this election
