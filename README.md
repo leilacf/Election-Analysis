@@ -25,4 +25,16 @@ Using Python, we followed these steps:
 
 ![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/2.%20for%20loop%2C%20vote%20count%20variable.png)
 
+- (b) Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  - Below is a screenshot of the county votes and percentage of total votes
 
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/breakfown%20numb%20of%20votes%20and%20%25%20county.png)
+
+- In terms of the code created in Python:
+  - first step was to extract the county names 
+
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/county%20name.png)
+
+- Then, using an if statement we created the list of county names and the vote count associated with each, to get the county results
+
+![This is an image](
