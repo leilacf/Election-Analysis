@@ -4,6 +4,7 @@
   
   ## 2. Election-Audit Results 
   The visual production based off of the election data can be seen below:
+  
   ![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/Election%20data%20full.png)
   
   ###### - How many votes were cast in this congressional election?
