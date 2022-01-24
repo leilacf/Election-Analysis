@@ -69,5 +69,19 @@ Using Python, we followed these steps:
 
 ![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/candidate%20total%20votes.png)
 
+- (e) Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/winning%20candidate.png)
+
+- As seen above, Diana DeGette won with 272,892 votes and 73.8% of the total votes
+- This was calculated with the following code where we created an if statement to determine the winning count, candidate, and percentage
+
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/winning%20candidate.png)
+
+## Election-Audit Summary
+As seen with the clear analysis created for this election, through the use of Python, the versatility of this program allows for the same steps to be used in analysis for other elections! With mild modifications, this level of analysis can be highly beneficial for any election commission. 
+
+For example:
+- larger data sets incorporating more detailed columns can be used, however, additional for loops and if statements would have to be added to the code in order to pull and work with the right data set, or portion of a data set
+- For a deeper understanding as to what made a particular winning candidate popular, modified additional code which sets a number value to the person, in comparison with others or with historical patterns, can serve to create a predictive analytical tool
 
