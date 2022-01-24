@@ -10,7 +10,9 @@
 - How many votes were cast in this congressional election?
   - A total of 369,711 votes were cast in this election
 
+
 ![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/total%20votes%20from%20election.png)
+
 
 Using Python, we followed these steps:
 - Added our dependencies and initialized a total vote counter
