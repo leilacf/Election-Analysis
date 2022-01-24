@@ -37,4 +37,37 @@ Using Python, we followed these steps:
 
 - Then, using an if statement we created the list of county names and the vote count associated with each, to get the county results
 
-![This is an image](
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/if%20statement%20county%20votes.png)
+
+- And lastly, created a for loop to iterate through the dictionary to calculate the vote count and total percentage of votes
+
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/for%20loop%20county%20votes.png)
+
+- (c) Which county had the largest number of votes?
+  - Denver was the county with the largest number of votes, as seen below:
+
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/Denver%20largest%20num%20votes.png)
+
+- This was calculated by creating an if statement to determine the county with the largest voter turnout
+
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/code%20for%20largest%20county.png)
+
+- (d) Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  - Below is the breakdown of votes, percentages of total votes, and candidates:
+  
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/each%20cand%20votes.png)
+
+- Initially, in Python we extracted the candidate names
+
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/candidate%20names.png)
+
+- Then used an if statement to iterate through the rows and add the candidate vote count
+
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/if%20statement%20candidate%20votes.png)
+
+- And lastly, used a for loop to calculate the percentage, and an f string to print this into the .txt file
+
+![This is an image](https://github.com/leilacf/Election-Analysis/blob/main/Election-Analysis/Resources/candidate%20total%20votes.png)
+
+
+
